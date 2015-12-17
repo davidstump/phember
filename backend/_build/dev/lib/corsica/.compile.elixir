@@ -1,0 +1,13 @@
+v1.
+{<<"/Users/david/playground/phember/phember_backend/_build/dev/lib/corsica/ebin/Elixir.Corsica.Router.beam">>,
+ 'Elixir.Corsica.Router',<<"lib/corsica/router.ex">>,
+ ['Elixir.Kernel','Elixir.Module'],
+ ['Elixir.Macro'],
+ [],nil}.
+{<<"/Users/david/playground/phember/phember_backend/_build/dev/lib/corsica/ebin/Elixir.Corsica.beam">>,
+ 'Elixir.Corsica',<<"lib/corsica.ex">>,
+ ['Elixir.Plug','Elixir.Kernel.Typespec','Elixir.Kernel','Elixir.Module',
+  'Elixir.Access','Elixir.String.Chars','Elixir.Logger','Elixir.Plug.Conn'],
+ ['Elixir.Regex',erlang,'Elixir.Map','Elixir.Keyword',
+  'Elixir.Plug.Conn.Utils','Elixir.String','Elixir.Enum'],
+ [],nil}.

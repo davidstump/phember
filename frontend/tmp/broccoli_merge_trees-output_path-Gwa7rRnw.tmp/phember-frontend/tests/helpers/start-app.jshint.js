@@ -1,0 +1,1 @@
+/Users/david/playground/phember/phember_frontend/tmp/broccoli_merge_trees-input_base_path-Qb2z1On1.tmp/2/phember-frontend/tests/helpers/start-app.jshint.js

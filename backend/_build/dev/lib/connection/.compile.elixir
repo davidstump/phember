@@ -1,0 +1,9 @@
+v1.
+{<<"/Users/david/playground/phember/phember_backend/_build/dev/lib/connection/ebin/Elixir.Connection.beam">>,
+ 'Elixir.Connection',<<"lib/connection.ex">>,
+ [erlang,'Elixir.Kernel.Def','Elixir.Kernel.Typespec','Elixir.Kernel',
+  'Elixir.Keyword','Elixir.Module','Elixir.Protocol','Elixir.List',
+  'Elixir.GenServer','Elixir.Behaviour','Elixir.ArgumentError'],
+ [code,proc_lib,gen,error_logger,'Elixir.Process',global,gen_server,
+  'Elixir.Code','Elixir.System'],
+ [],nil}.

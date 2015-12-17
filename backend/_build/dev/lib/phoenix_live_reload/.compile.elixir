@@ -1,0 +1,21 @@
+v1.
+{<<"/Users/david/playground/phember/phember_backend/_build/dev/lib/phoenix_live_reload/ebin/Elixir.Phoenix.LiveReloader.Socket.beam">>,
+ 'Elixir.Phoenix.LiveReloader.Socket',<<"lib/phoenix_live_reload/socket.ex">>,
+ ['Elixir.Kernel','Elixir.Phoenix.Transports.WebSocket','Elixir.Module',
+  'Elixir.Phoenix','Elixir.Phoenix.Socket',
+  'Elixir.Phoenix.Transports.LongPoll'],
+ [],[],nil}.
+{<<"/Users/david/playground/phember/phember_backend/_build/dev/lib/phoenix_live_reload/ebin/Elixir.Phoenix.LiveReload.Channel.beam">>,
+ 'Elixir.Phoenix.LiveReload.Channel',<<"lib/phoenix_live_reload/channel.ex">>,
+ ['Elixir.Phoenix.Channel','Elixir.Kernel','Elixir.Module',
+  'Elixir.Phoenix.Socket'],
+ [erlang,'Elixir.Path','Elixir.Access','Elixir.String.Chars',fs,
+  'Elixir.String','Elixir.Enum','Elixir.Application'],
+ [],nil}.
+{<<"/Users/david/playground/phember/phember_backend/_build/dev/lib/phoenix_live_reload/ebin/Elixir.Phoenix.LiveReloader.beam">>,
+ 'Elixir.Phoenix.LiveReloader',<<"lib/phoenix_live_reload/live_reloader.ex">>,
+ ['Elixir.Kernel','Elixir.Module','Elixir.Plug.Conn','Elixir.File',
+  'Elixir.Plug','Elixir.Application'],
+ [erlang,'Elixir.Path','Elixir.Map','Elixir.Access','Elixir.String.Chars',
+  'Elixir.String','Elixir.Enum'],
+ [],nil}.
